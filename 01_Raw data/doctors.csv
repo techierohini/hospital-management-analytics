@@ -1,0 +1,121 @@
+Doctor_ID,Doctor_Name,Department,Experience_Years,Consultation_Fee
+D001,Dr. Meera Gupta,Orthopedics,18,1500
+D002,Dr. Sneha Singh,ENT,23,1500
+D003,Dr. Nisha Sharma,Gastroenterology,7,700
+D004,Dr. Rahul Gupta,Dermatology,3,1000
+D005,Dr. Riya Gupta,Dermatology,18,500
+D006,Dr. Isha Jain,Gynecology,2,600
+D007,Dr. Nisha Verma,General Medicine,6,800
+D008,Dr. Neha Reddy,Cardiology,7,700
+D009,Dr. Rahul Rao,General Medicine,6,1500
+D010,Dr. Vikram Joshi,General Medicine,23,1200
+D011,Dr. Pooja Gupta,Pediatrics,22,400
+D012,Dr. Ananya Jain,Orthopedics,14,600
+D013,Dr. Rohan Verma,General Medicine,18,500
+D014,Dr. Sneha Mehta,General Medicine,17,500
+D015,Dr. Arjun Rao,General Medicine,22,800
+D016,Dr. Aarav Singh,Neurology,10,1200
+D017,Dr. Ananya Deshmukh,Orthopedics,18,1000
+D018,Dr. Pooja Sharma,Neurology,12,700
+D019,Dr. Rahul Shah,Gastroenterology,14,700
+D020,Dr. Neha Joshi,Orthopedics,9,500
+D021,Dr. Vivaan Jain,Ophthalmology,20,1200
+D022,Dr. Vivaan Kulkarni,Dermatology,24,1200
+D023,Dr. Neha Singh,General Medicine,25,600
+D024,Dr. Aditya Singh,Gynecology,11,500
+D025,Dr. Aarav Sharma,General Medicine,4,700
+D026,Dr. Rohan Khan,Pediatrics,22,1000
+D027,Dr. Rohan Mehta,Ophthalmology,2,600
+D028,Dr. Aditya Kulkarni,Gastroenterology,5,600
+D029,Dr. Diya Pawar,Pediatrics,23,500
+D030,Dr. Vikram Deshmukh,ENT,9,1000
+D031,Dr. Sneha Singh,Gynecology,15,1500
+D032,Dr. Neha Rao,Orthopedics,6,1200
+D033,Dr. Riya Khan,General Medicine,8,1200
+D034,Dr. Ananya Sharma,Gynecology,9,500
+D035,Dr. Rohan Verma,General Medicine,7,1200
+D036,Dr. Rahul Rao,ENT,18,1200
+D037,Dr. Vivaan Khan,Dermatology,18,600
+D038,Dr. Diya Verma,Gynecology,5,800
+D039,Dr. Sneha Singh,Pediatrics,25,400
+D040,Dr. Kavya Deshmukh,Cardiology,14,1200
+D041,Dr. Rahul Reddy,Neurology,19,400
+D042,Dr. Riya Gupta,Pediatrics,2,400
+D043,Dr. Ananya Deshmukh,ENT,11,800
+D044,Dr. Vivaan Patil,Dermatology,25,1200
+D045,Dr. Aarav Sharma,Dermatology,22,1200
+D046,Dr. Vikram Singh,Neurology,2,1500
+D047,Dr. Priya Khan,Orthopedics,18,400
+D048,Dr. Priya Singh,General Medicine,20,1000
+D049,Dr. Vikram Verma,Pediatrics,5,600
+D050,Dr. Ananya Jain,General Medicine,22,1500
+D051,Dr. Isha Mehta,Gastroenterology,6,600
+D052,Dr. Karan Singh,Dermatology,25,700
+D053,Dr. Priya Singh,Pediatrics,2,600
+D054,Dr. Aditya Deshmukh,General Medicine,17,1000
+D055,Dr. Priya Mehta,Dermatology,7,1500
+D056,Dr. Diya Patil,Gynecology,16,800
+D057,Dr. Riya Mehta,Dermatology,20,600
+D058,Dr. Kavya Shah,General Medicine,15,600
+D059,Dr. Priya Patil,Orthopedics,19,1000
+D060,Dr. Aarav Sharma,Orthopedics,20,800
+D061,Dr. Ananya Rao,Ophthalmology,9,500
+D062,Dr. Vivaan Pawar,Gynecology,22,600
+D063,Dr. Pooja Shah,Cardiology,3,1500
+D064,Dr. Vivaan Reddy,Dermatology,14,1500
+D065,Dr. Riya Shah,Pediatrics,20,700
+D066,Dr. Kavya Mehta,General Medicine,19,1200
+D067,Dr. Neha Mehta,Dermatology,9,400
+D068,Dr. Neha Jain,Gastroenterology,25,1200
+D069,Dr. Aditya Patil,Gynecology,25,600
+D070,Dr. Arjun Rao,General Medicine,4,1000
+D071,Dr. Ananya Singh,Cardiology,4,800
+D072,Dr. Meera Shah,ENT,16,1200
+D073,Dr. Sneha Jain,Pediatrics,6,1500
+D074,Dr. Aditi Patil,General Medicine,3,600
+D075,Dr. Vikram Deshmukh,Pediatrics,21,800
+D076,Dr. Isha Khan,Ophthalmology,12,1000
+D077,Dr. Arjun Singh,Cardiology,22,800
+D078,Dr. Vivaan Kulkarni,ENT,19,600
+D079,Dr. Aditi Khan,Neurology,17,700
+D080,Dr. Pooja Rao,Pediatrics,11,800
+D081,Dr. Isha Patil,Gastroenterology,19,1500
+D082,Dr. Meera Gupta,General Medicine,4,400
+D083,Dr. Aditi Verma,ENT,9,500
+D084,Dr. Isha Rao,Orthopedics,21,1200
+D085,Dr. Sneha Deshmukh,General Medicine,18,800
+D086,Dr. Riya Gupta,Gynecology,7,700
+D087,Dr. Sneha Reddy,Gynecology,22,600
+D088,Dr. Aditi Khan,General Medicine,14,1500
+D089,Dr. Sneha Sharma,General Medicine,19,1500
+D090,Dr. Aditi Rao,Orthopedics,5,1200
+D091,Dr. Rohan Sharma,Gastroenterology,5,600
+D092,Dr. Nisha Kulkarni,ENT,25,800
+D093,Dr. Arjun Joshi,General Medicine,23,1500
+D094,Dr. Neha Singh,General Medicine,11,600
+D095,Dr. Priya Verma,Ophthalmology,24,500
+D096,Dr. Pooja Mehta,ENT,21,1000
+D097,Dr. Aarav Pawar,Gynecology,8,500
+D098,Dr. Neha Verma,Gynecology,11,1200
+D099,Dr. Neha Mehta,Cardiology,14,1200
+D100,Dr. Riya Jain,Cardiology,10,700
+D101,Dr. Sneha Kulkarni,General Medicine,8,1500
+D102,Dr. Vivaan Kulkarni,Orthopedics,7,800
+D103,Dr. Pooja Kulkarni,Gynecology,17,700
+D104,Dr. Nisha Pawar,ENT,11,1500
+D105,Dr. Aarav Mehta,Ophthalmology,25,800
+D106,Dr. Ananya Patil,General Medicine,23,500
+D107,Dr. Neha Gupta,ENT,4,1200
+D108,Dr. Pooja Jain,Gastroenterology,17,700
+D109,Dr. Nisha Rao,General Medicine,17,600
+D110,Dr. Pooja Deshmukh,Cardiology,3,1200
+D111,Dr. Kavya Sharma,Ophthalmology,20,1200
+D112,Dr. Diya Mehta,Dermatology,14,700
+D113,Dr. Nisha Rao,Gynecology,21,1500
+D114,Dr. Aditya Khan,Orthopedics,13,1500
+D115,Dr. Vivaan Pawar,General Medicine,12,500
+D116,Dr. Karan Joshi,Ophthalmology,18,800
+D117,Dr. Sneha Rao,General Medicine,20,1000
+D118,Dr. Karan Khan,Orthopedics,20,700
+D119,Dr. Pooja Khan,Cardiology,13,800
+D120,Dr. Karan Reddy,Dermatology,15,1500
