@@ -207,5 +207,5 @@ Data Cleaning → Data Transformation → SQL Analysis → Data Modelling → DA
 The project focuses on converting operational healthcare data into meaningful information that can support data-driven hospital management.
 
 Disclaimer
-This project is created for educational and portfolio purposes. The dataset does not contain personal or sensitive patient information.
+The dataset does not contain personal or sensitive patient information.
 
